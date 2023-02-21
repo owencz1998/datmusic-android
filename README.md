@@ -1,6 +1,6 @@
 [![Build Status](https://app.bitrise.io/app/a9d4a801d16aeb4b/status.svg?token=SDRq0hjKAYskAcf_d7IKZw)](https://app.bitrise.io/app/a9d4a801d16aeb4b)
 
-# YouTunes-android
+# YouTunes beta-android
 
 ### Demo video & Screenshots
 
